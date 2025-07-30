@@ -1,1 +1,1 @@
-print("bye, world")
+print("remote, world")
